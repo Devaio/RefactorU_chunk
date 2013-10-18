@@ -1,0 +1,29 @@
+.peopleCont {
+	padding: 20px;
+	margin:70px;
+	min-height: 200px;
+	width: auto;
+	background-color: gainsboro;
+	border-radius: 10px;
+}
+
+
+.person {
+	float: left;
+	border-radius: 5px;
+	text-align: center;
+	margin:10px;
+	height: 60px;
+	width: 60px;
+	background-color: cadetblue;
+	color:white;
+}
+
+.group {
+	float: left;
+	margin: 10px;
+	min-width: 10px;
+	min-height: 10px;
+	background-color: ghostwhite;
+	border: thin solid black;
+}
